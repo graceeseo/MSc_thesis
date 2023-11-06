@@ -1,16 +1,10 @@
-**MSc Thesis**
+# Master's Degree Thesis
 
-# Thesis title: Whole Genome Sequencing of SARS-CoV-2 for Canada’s COVID-19 Genomic Surveillance
+# Title: Whole Genome Sequencing of SARS-CoV-2 for Canada’s COVID-19 Genomic Surveillance
 ### Author: Grace Eunchong Seo
 
-This repository contains codes used in bash and RStudio for thesis data analysis and visualization.
-
-A Thesis submitted to the Faculty of Graduate Studies of the University of Manitoba
-in partial fulfilment of the requirements of the degree of MASTER OF SCIENCE
-
-Department of Medical Microbiology and Infectious Diseases
-University of Manitoba
-Winnipeg, Canada
+This is my master's degree thesis repository. 
+This repository contains codes for data transformation and data visualization used for my thesis.
 
 © Copyright 2023 by Grace E. Seo
 
