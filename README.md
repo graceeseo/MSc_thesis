@@ -1,4 +1,4 @@
-# Grace Seo Master's Thesis Repository
+**MSc Thesis**
 
 # Thesis title: Whole Genome Sequencing of SARS-CoV-2 for Canada’s COVID-19 Genomic Surveillance
 ### Author: Grace Eunchong Seo
