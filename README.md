@@ -1,7 +1,7 @@
 # Grace Seo Master's Thesis Repository
 
 # Thesis title: Whole Genome Sequencing of SARS-CoV-2 for Canada’s COVID-19 Genomic Surveillance
-## Author: Grace Eunchong Seo
+### Author: Grace Eunchong Seo
 
 This repository contains codes used in bash and RStudio for thesis data analysis and visualization.
 
